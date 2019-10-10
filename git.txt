@@ -1,0 +1,17 @@
+configurações iniciais: 
+
+git config --global user.name "Alexandre"
+
+cd .. (sai da pasta)
+
+https://github.com/alexandrsaraiv/exemplo.git
+
+git clone (link)
+
+git add .
+
+git commit -m "msg"
+
+git pull
+
+git push
